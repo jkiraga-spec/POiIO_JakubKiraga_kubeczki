@@ -24,4 +24,5 @@ vector<TSubstance> substancje=
 	TSubstance{"mleko", 1030.0},
 	TSubstance{"oliwa", 920.0},
 	TSubstance{"krew", 1050.0}
+
 };

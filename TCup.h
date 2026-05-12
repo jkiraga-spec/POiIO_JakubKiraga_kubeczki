@@ -24,4 +24,5 @@ private:
 	void print_coe_mass();
 	int reduce_repeatitons(TSubstance substance);
 	int get_substance_id(std::string name);
+
 };
